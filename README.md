@@ -1,5 +1,5 @@
 
-#**Image Classification Using Machine Learning and Deep Learning**
+#Image Classification Using Machine Learning and Deep Learning
 
 Project Overview
 This project involves building and comparing deep learning models for image classification using Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN). The aim is to classify images into predefined categories and evaluate the performance of both models.
