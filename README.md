@@ -11,7 +11,9 @@ Training history visualization with accuracy and loss plots.
 Detailed comparison of ANN and CNN for image classification tasks.
 Problem Statement
 The project tackles the challenge of accurately classifying images into their respective categories using deep learning techniques. It focuses on achieving higher accuracy by leveraging CNN's feature extraction capabilities and ANN's flexibility.
-<>
+
+
+
 Motivation
 Deep learning, particularly CNNs, has transformed image classification by automating feature extraction and improving accuracy. This project explores these advancements to understand the strengths and weaknesses of ANN and CNN in practical applications.
 
